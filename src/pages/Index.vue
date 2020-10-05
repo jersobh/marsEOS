@@ -8,7 +8,7 @@
     >
   </div>
   <div class="row">
-    <q-btn to="/story" unelevated rounded text-color="grey-10" color="grey-12" label="Iniciar Aventura" />
+    <q-btn to="/story" unelevated rounded text-color="grey-10" color="grey-12" label="Begin Adventure" />
   </div>
   </q-page>
 </template>
